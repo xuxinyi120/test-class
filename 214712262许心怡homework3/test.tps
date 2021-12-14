@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=LaTeX1.tex
 
 [Frame0_View0,0]
-TopLine=0
-Cursor=790
+TopLine=33
+Cursor=839
 
 [Frame1]
 Flags=0
@@ -74,7 +74,25 @@ Document=..\..\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-bas
 TopLine=173
 Cursor=5223
 
+[Frame4]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=36
+NormalPos.right=1562
+NormalPos.bottom=547
+Class=LaTeXView
+Document=LaTeX1-1.tex
+
+[Frame4_View0,0]
+TopLine=0
+Cursor=162
+
 [SessionInfo]
-FrameCount=4
-ActiveFrame=0
+FrameCount=5
+ActiveFrame=4
 
